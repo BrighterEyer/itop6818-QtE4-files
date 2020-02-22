@@ -1,0 +1,1 @@
+<a href="http://download.qt.io/archive/qt/4.7/qt-everywhere-opensource-src-4.7.1.tar.gz" target="_blank">qt-everywhere-opensource-src-4.7.1.tar.gz</a>
